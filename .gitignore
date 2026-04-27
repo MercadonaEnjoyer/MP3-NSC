@@ -1,5 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.ruff_cache
+.pytest_cache
+.coverage
+naive_profile.prof
 *.py[codz]
 *$py.class
 
